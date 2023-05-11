@@ -1,0 +1,14 @@
+/********PRODUCT PAGE************/
+.prod-search{
+  margin-top: 4px;
+}
+body{
+  background-color: blue;
+}
+
+.search-div{
+  margin-top: 3px;
+}
+#product-search{
+  width:100%;
+}
